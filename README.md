@@ -1,5 +1,5 @@
 # JOGO DA MEMORIA EM APK
-👨‍🏫JOGO DE MEMÓRIA FEITO NO ANDROID STUDIO EM JAVA.
+👨‍🏫JOGO DA MEMÓRIA FEITO NO ANDROID STUDIO EM JAVA.
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>

@@ -72,6 +72,7 @@
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE CURSO DE ANDROID STUDIO EM JAVA](https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA)
 * [CURSO DE JAVA](https://github.com/VILHALVA/CURSO-DE-JAVA)
+* [CURSO DE XML](https://github.com/VILHALVA/CURSO-DE-XML)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
